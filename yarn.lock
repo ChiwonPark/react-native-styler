@@ -2917,9 +2917,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@lordwasel/rn-styler@workspace:.":
+"@lordweasel/rn-styler@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@lordwasel/rn-styler@workspace:."
+  resolution: "@lordweasel/rn-styler@workspace:."
   dependencies:
     "@commitlint/config-conventional": ^17.0.2
     "@evilmartians/lefthook": ^1.5.0
