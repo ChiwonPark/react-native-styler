@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChiwonPark/lordwasel-rn-styler.git"
+    "url": "git+https://github.com/ChiwonPark/react-native-styler.git"
   },
   "author": "ChiwonPark <lordweasel@naver.com> (https://github.com/ChiwonPark)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ChiwonPark/lordwasel-rn-styler/issues"
+    "url": "https://github.com/ChiwonPark/react-native-styler/issues"
   },
-  "homepage": "https://github.com/ChiwonPark/lordwasel-rn-styler#readme",
+  "homepage": "https://github.com/ChiwonPark/react-native-styler#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
